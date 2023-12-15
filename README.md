@@ -52,7 +52,7 @@ QA Tester
 <br>
 
 <li>
-<a href="soriano30emmanuel@gmail.com" target="_blank">
+<a href="mailto:soriano30emmanuel@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Emmanuel Soriano Gonzalez-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
